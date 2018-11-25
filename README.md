@@ -7,3 +7,8 @@ Admob is the #1 mobile advertising platform to grow your app business and is pow
 3. We will display Native ads in between the list of movies displayed in a RecyclerView. 
 
 Complete Tutorial at : http://androidbash.com/firebase-admob-integration-tutorial-on-android-banner-ads-native-ads-interstitial-ads
+
+
+<p align="center">
+  <img src="https://i0.wp.com/androidbash.com/wp-content/uploads/2017/01/FirebaseAdmobResult-1.gif?resize=432%2C768" width="350"/>
+</p>
